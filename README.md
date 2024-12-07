@@ -47,3 +47,4 @@
 | Taxes                             | 28,000 Cr / Year                               | -                    | 28,000 Cr / Year|
 | *Human Population*              | 15 Million                                     | -                    | -               |
 | *Total Budget*                  |                                                |                      | 10,838 Cr       |
+.
